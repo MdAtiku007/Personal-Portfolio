@@ -1,7 +1,3 @@
-Here’s a **GitHub README description** for your **personal portfolio project**:
-
----
-
 ## 💼 Personal Portfolio Website
 
 This is my **personal portfolio website** built with **HTML, CSS, and JavaScript** to showcase my skills, projects, and contact information. It serves as an online resume and a way for people to learn more about me.
